@@ -44,7 +44,7 @@ This project demonstrates:
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone <https://github.com/sharonbochaberi-oss/sql-workout-app.git>
 cd sql-workout-app
 ```
 
